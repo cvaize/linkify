@@ -1,5 +1,5 @@
 # Function that converts links in text to html links
-###Example:
+### Example:
 ```javascript
 // FROM: 
 // Какой хороший день https://medium.com/keep-network-korea-привет-ё. Лучший день

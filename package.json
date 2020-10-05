@@ -1,5 +1,5 @@
 {
-  "name": "linkify",
+  "name": "thlinkify",
   "version": "1.0.0",
   "description": "Function that converts links in text to html links",
   "main": "index.js",
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cvaize/linkify.git"
+    "url": "git+https://github.com/cvaize/thlinkify.git"
   },
   "keywords": [
     "links",
     "links-to-html"
   ],
   "bugs": {
-    "url": "https://github.com/cvaize/linkify/issues"
+    "url": "https://github.com/cvaize/thlinkify/issues"
   },
-  "homepage": "https://github.com/cvaize/linkify#readme",
+  "homepage": "https://github.com/cvaize/thlinkify#readme",
   "author": "Dmitry Orlov",
   "license": "ISC"
 }

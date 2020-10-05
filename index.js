@@ -15,10 +15,7 @@ export default function linkify(inputText) {
 
     //Russian characters in links
     replacedText = replacedText.replace(/href="(.*?)"/gim, function (value){
-        if(/[а-яА-ЯЁё]/.test(value)){
-            value = 'href="'+encodeURI(value.replace(/href="/gim, '').replace(/"/gim, ''))+'"'
-        }
-        return value;
+        return 'href="'+encodeURI(value.replace(/href="/gim, '').replace(/"/gim, ''))+'"';
     });
 
     return replacedText;

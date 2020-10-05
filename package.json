@@ -1,6 +1,6 @@
 {
   "name": "thlinkify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Function that converts links in text to html links",
   "main": "index.js",
   "scripts": {
